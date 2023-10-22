@@ -1,0 +1,3 @@
+import numpy as np
+angle=np.arccos(-0.6544)
+np.rad2deg(angle)
